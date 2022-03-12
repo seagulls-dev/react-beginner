@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
         <h1>Hello React</h1>
+        <h2>Wow dev1 Branch</h2>
       </header>
       <Toggle name='hello toggle' />
     </div>
